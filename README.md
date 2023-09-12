@@ -127,6 +127,9 @@ Don’t really say “System Feature 1.” State the feature name in just a few 
 ### 5.1 Performance Requirements
 ## :octocat: Carlos Alfredo Manrique Cruz :octocat:
 If there are performance requirements for the product under various circumstances, state them here and explain their rationale, to help the developers understand the intent and make suitable design choices. Specify the timing relationships for real time systems. Make such requirements as specific as possible. You may need to state performance requirements for individual functional requirements or features.
+
+El sistema debe estar en linea las 24 horas del dia  y de ser necesario la interrupcion del servicio por razones de mantenimiento debe notificarsele a cada usuario mediante la plataforma.
+
 ### 5.2 Safety Requirements
 ## :octocat: Diego Alejandro Rubiano Buitrago :octocat:
 Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.
